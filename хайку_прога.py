@@ -14,7 +14,7 @@ def four_slog():
 
 
 def punct():
-    marks = [".", "،", "!", "؟", "...", ","]
+    marks = [".", "،", "!", "؟", "..."]
     return random.choice(marks)
 
 def str1():
